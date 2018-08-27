@@ -14,4 +14,6 @@ lecture notes and introductory python notebook are enough to tackle these, which
 encouraged since this is how concepts are truly learned. So try and have a go without looking 
 at the solutions first. 
 
+The notebooks are compatible with Python 2.7 with numpy and matplotlib as dependancies. 
+
 email: sheridev@tcd.ie for any related queries. 
